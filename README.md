@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Ili (IliAsghar) 🌟
+# 👋 Hello, I'm ili (iliAsghar) 🌟
 
 ## About Me
-I'm a junior frontend web developer passionate about creating visually appealing and user-friendly websites. My journey in web development has been an exciting adventure, and I'm constantly seeking new opportunities to learn and grow.
+I'm a junior frontend web developer passionate about creating visually appealing and user-friendly websites.
 
 ## 🔭 Current Focus
 Right now, I'm diving deep into JavaScript (JS) and honing my skills through practice and experimentation.
@@ -13,7 +13,7 @@ Right now, I'm diving deep into JavaScript (JS) and honing my skills through pra
 
 ## 🎯 Goals
 - **Short-term:** Enhance my frontend development skills to build more complex and interactive web applications.
-- **Long-term:** Transition into game development and create immersive and engaging games.
+- **Long-term:** Transition into game development and create games.
 
 ## 📫 Get in Touch
 - Twitter: [@IliAsghar](https://x.com/IliAsghar)
