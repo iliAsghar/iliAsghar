@@ -17,7 +17,6 @@ Right now, I'm diving deep into JavaScript (JS) and honing my skills through pra
 
 ## 📫 Get in Touch
 - Twitter: [@IliAsghar](https://x.com/IliAsghar)
-- Email: [asghar.ali.z.a.r.e@gmail.com](mailto:asghar.ali.z.a.r.e@gmail.com)
 
 <!---
 iliAsghar/iliAsghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
