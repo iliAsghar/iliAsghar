@@ -1,18 +1,22 @@
-# 👋 Hello, I'm ili (iliAsghar) 🌟
+# 👋 Hello, I'm AliAsghar Zare (AKA ili) 🌟
 
 ## About Me
-I'm a junior frontend web developer passionate about creating visually appealing and user-friendly websites.
+I'm growing!
 
 ## 🔭 Current Focus
-Right now, I'm diving deep into JavaScript (JS) and honing my skills through practice and experimentation.
+Right now, I'm diving deep into AI and data engineering.
 
 ## 💡 Skills
 - HTML
 - CSS
 - JavaScript
+- Python
+- AI / MachineLearning
+- C#
+- C++
 
 ## 🎯 Goals
-- **Short-term:** Enhance my frontend development skills to build more complex and interactive web applications.
+- **Short-term:** Enhance my skills.
 - **Long-term:** Transition into game development and create games.
 
 ## 📫 Get in Touch
